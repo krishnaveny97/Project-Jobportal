@@ -1,0 +1,869 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\careercatalyst\\api\\jobseeker\\jobseekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|solutionrelative:careercatalyst\\api\\jobseeker\\jobseekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\careercatalyst\\extensions\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|solutionrelative:careercatalyst\\extensions\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\careercatalyst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|solutionrelative:careercatalyst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\careercatalyst\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|solutionrelative:careercatalyst\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\careercatalyst\\api\\jobseeker\\jobseekerprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|solutionrelative:careercatalyst\\api\\jobseeker\\jobseekerprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\careercatalyst\\api\\jobprovider\\interviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|solutionrelative:careercatalyst\\api\\jobprovider\\interviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\careercatalyst\\api\\jobprovider\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|solutionrelative:careercatalyst\\api\\jobprovider\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\careercatalyst\\api\\jobprovider\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|solutionrelative:careercatalyst\\api\\jobprovider\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\careercatalyst\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|solutionrelative:careercatalyst\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\careercatalyst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|solutionrelative:careercatalyst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\models\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\models\\jobprovidercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobprovidercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\models\\companyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\companyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\models\\jobcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\profile\\profilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\profile\\profilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\jobseekersignup\\jobseekersignuprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\jobseekersignup\\jobseekersignuprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\profile\\dtos\\jobseekerprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\profile\\dtos\\jobseekerprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\models\\jobseekerprofileskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobseekerprofileskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\models\\newdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\newdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\models\\workexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\workexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\jobseekersignup\\jobseekersignuprequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\jobseekersignup\\jobseekersignuprequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\enum\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\enum\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\authuser\\authuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\authuser\\authuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\jobseekersignup\\interfaces\\ijobseekersignuprequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\jobseekersignup\\interfaces\\ijobseekersignuprequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\jobprovidersignup\\signuprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\jobprovidersignup\\signuprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\authuser\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\authuser\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\login\\loginrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\login\\loginrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\login\\loginrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\login\\loginrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\authuser\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\authuser\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\login\\dtos\\jobseekerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\login\\dtos\\jobseekerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\jobseekersignup\\interfaces\\ijobseekersignuprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\jobseekersignup\\interfaces\\ijobseekersignuprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\jobprovidersignup\\signuprequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\jobprovidersignup\\signuprequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\jobprovidersignup\\interface\\isignuprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\jobprovidersignup\\interface\\isignuprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\authuser\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\authuser\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\service\\authuser\\interfaces\\iauthuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\service\\authuser\\interfaces\\iauthuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\helpers\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\helpers\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\helpers\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\helpers\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\enum\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\enum\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\careercatalyst\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B4D09EA-6589-4706-B881-4E17F81FCF1C}|CareerCatalyst\\CareerCatalyst.csproj|solutionrelative:careercatalyst\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\migrations\\20240807110514_addedjobseekerprofileskills3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20240807110514_addedjobseekerprofileskills3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\migrations\\20240807104824_addedjobseekerprofileskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20240807104824_addedjobseekerprofileskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\migrations\\20240807105123_addedjobseekerprofileskills2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20240807105123_addedjobseekerprofileskills2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|c:\\users\\rajre\\onedrive\\desktop\\orginal project angular\\original project\\project_new\\careercatalyst\\domain\\migrations\\20240808110657_modelchanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899489DE-9FE3-42BF-8DA2-5B63E82A00D9}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20240808110657_modelchanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobseekerController.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\API\\JobSeeker\\JobseekerController.cs",
+              "RelativeDocumentMoniker": "CareerCatalyst\\API\\JobSeeker\\JobseekerController.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\API\\JobSeeker\\JobseekerController.cs",
+              "RelativeToolTip": "CareerCatalyst\\API\\JobSeeker\\JobseekerController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:06:41.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobSeekerProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\API\\JobSeeker\\JobSeekerProfileController.cs",
+              "RelativeDocumentMoniker": "CareerCatalyst\\API\\JobSeeker\\JobSeekerProfileController.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\API\\JobSeeker\\JobSeekerProfileController.cs",
+              "RelativeToolTip": "CareerCatalyst\\API\\JobSeeker\\JobSeekerProfileController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAswBEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:06:38.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "CareerCatalyst\\Extensions\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "CareerCatalyst\\Extensions\\ApplicationServiceExtension.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADgvxkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:51:17.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\Program.cs",
+              "RelativeDocumentMoniker": "CareerCatalyst\\Program.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\Program.cs",
+              "RelativeToolTip": "CareerCatalyst\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:02:20.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\Extensions\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "CareerCatalyst\\Extensions\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\Extensions\\AutoMapperProfile.cs",
+              "RelativeToolTip": "CareerCatalyst\\Extensions\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:05:43.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "CareerCatalyst\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "CareerCatalyst\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:00:23.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobProviderController.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\API\\JobProvider\\JobProviderController.cs",
+              "RelativeDocumentMoniker": "CareerCatalyst\\API\\JobProvider\\JobProviderController.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\API\\JobProvider\\JobProviderController.cs",
+              "RelativeToolTip": "CareerCatalyst\\API\\JobProvider\\JobProviderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:26:19.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterviewController.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\API\\JobProvider\\InterviewController.cs",
+              "RelativeDocumentMoniker": "CareerCatalyst\\API\\JobProvider\\InterviewController.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\API\\JobProvider\\InterviewController.cs",
+              "RelativeToolTip": "CareerCatalyst\\API\\JobProvider\\InterviewController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:26:22.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\appsettings.json",
+              "RelativeDocumentMoniker": "CareerCatalyst\\appsettings.json",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\appsettings.json",
+              "RelativeToolTip": "CareerCatalyst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T09:01:47.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\API\\JobProvider\\CompanyController.cs",
+              "RelativeDocumentMoniker": "CareerCatalyst\\API\\JobProvider\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\API\\JobProvider\\CompanyController.cs",
+              "RelativeToolTip": "CareerCatalyst\\API\\JobProvider\\CompanyController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:45:15.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobPost.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\JobPost.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobPost.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\JobPost.cs",
+              "RelativeToolTip": "Domain\\Models\\JobPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:59:08.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobCategory.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\JobCategory.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobCategory.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\JobCategory.cs",
+              "RelativeToolTip": "Domain\\Models\\JobCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:00:52.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\Location.cs",
+              "RelativeToolTip": "Domain\\Models\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:02:08.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Industry.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\Industry.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Industry.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\Industry.cs",
+              "RelativeToolTip": "Domain\\Models\\Industry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:02:23.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobProviderCompany.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\JobProviderCompany.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobProviderCompany.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\JobProviderCompany.cs",
+              "RelativeToolTip": "Domain\\Models\\JobProviderCompany.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:02:39.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompanyUser.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\CompanyUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\CompanyUser.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\CompanyUser.cs",
+              "RelativeToolTip": "Domain\\Models\\CompanyUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:05:25.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\Profile\\ProfileRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\Profile\\ProfileRepository.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\Profile\\ProfileRepository.cs",
+              "RelativeToolTip": "Domain\\Service\\Profile\\ProfileRepository.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAUwKIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:41:58.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JobseekerSignUpRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\JobSeekerSignUp\\JobseekerSignUpRequestService.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\JobSeekerSignUp\\JobseekerSignUpRequestService.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\JobSeekerSignUp\\JobseekerSignUpRequestService.cs",
+              "RelativeToolTip": "Domain\\Service\\JobSeekerSignUp\\JobseekerSignUpRequestService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAuwEIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:10:29.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JobSeekerProfileDTo.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\Profile\\DTOs\\JobSeekerProfileDTo.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\Profile\\DTOs\\JobSeekerProfileDTo.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\Profile\\DTOs\\JobSeekerProfileDTo.cs",
+              "RelativeToolTip": "Domain\\Service\\Profile\\DTOs\\JobSeekerProfileDTo.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wB0AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:16:48.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JobSeekerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\JobSeekerProfile.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobSeekerProfile.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\JobSeekerProfile.cs",
+              "RelativeToolTip": "Domain\\Models\\JobSeekerProfile.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA0wBsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:39:08.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JobSeekerProfileSkill.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\JobSeekerProfileSkill.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobSeekerProfileSkill.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\JobSeekerProfileSkill.cs",
+              "RelativeToolTip": "Domain\\Models\\JobSeekerProfileSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:32:49.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NewDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\NewDbContext.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\NewDbContext.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\NewDbContext.cs",
+              "RelativeToolTip": "Domain\\Models\\NewDbContext.cs",
+              "ViewState": "AQIAAHcBAAAAAAAAAAAuwJEBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:42:39.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Qualification.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\Qualification.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Qualification.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\Qualification.cs",
+              "RelativeToolTip": "Domain\\Models\\Qualification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:52:57.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WorkExperience.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\WorkExperience.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\WorkExperience.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\WorkExperience.cs",
+              "RelativeToolTip": "Domain\\Models\\WorkExperience.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:03:34.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\Skill.cs",
+              "RelativeToolTip": "Domain\\Models\\Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:10:40.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Enum\\Status.cs",
+              "RelativeDocumentMoniker": "Domain\\Enum\\Status.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Enum\\Status.cs",
+              "RelativeToolTip": "Domain\\Enum\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:14:25.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JobseekerSignUpRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\JobSeekerSignUp\\JobseekerSignUpRequestRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\JobSeekerSignUp\\JobseekerSignUpRequestRepository.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\JobSeekerSignUp\\JobseekerSignUpRequestRepository.cs",
+              "RelativeToolTip": "Domain\\Service\\JobSeekerSignUp\\JobseekerSignUpRequestRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:10:40.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\AuthUser\\AuthUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\AuthUser\\AuthUserRepository.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\AuthUser\\AuthUserRepository.cs",
+              "RelativeToolTip": "Domain\\Service\\AuthUser\\AuthUserRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:43:21.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JobSeeker.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\JobSeeker.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobSeeker.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\JobSeeker.cs",
+              "RelativeToolTip": "Domain\\Models\\JobSeeker.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwB0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:54:04.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\AuthUser.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Models\\AuthUser.cs",
+              "RelativeToolTip": "Domain\\Models\\AuthUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:57:36.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IJobseekerSignUpRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\JobSeekerSignUp\\Interfaces\\IJobseekerSignUpRequestRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\JobSeekerSignUp\\Interfaces\\IJobseekerSignUpRequestRepository.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\JobSeekerSignUp\\Interfaces\\IJobseekerSignUpRequestRepository.cs",
+              "RelativeToolTip": "Domain\\Service\\JobSeekerSignUp\\Interfaces\\IJobseekerSignUpRequestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:18:26.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SignUpRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\JobProviderSignUp\\SignUpRequestService.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\JobProviderSignUp\\SignUpRequestService.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\JobProviderSignUp\\SignUpRequestService.cs",
+              "RelativeToolTip": "Domain\\Service\\JobProviderSignUp\\SignUpRequestService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:20:54.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20240808110657_modelchanged.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Migrations\\20240808110657_modelchanged.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20240808110657_modelchanged.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Migrations\\20240808110657_modelchanged.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20240808110657_modelchanged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:06:57.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\AuthUser\\AuthService.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\AuthUser\\AuthService.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\AuthUser\\AuthService.cs",
+              "RelativeToolTip": "Domain\\Service\\AuthUser\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:11:20.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\Login\\LoginRequestRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\Login\\LoginRequestRepository.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\Login\\LoginRequestRepository.cs",
+              "RelativeToolTip": "Domain\\Service\\Login\\LoginRequestRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:27:59.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\Login\\LoginRequestService.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\Login\\LoginRequestService.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\Login\\LoginRequestService.cs",
+              "RelativeToolTip": "Domain\\Service\\Login\\LoginRequestService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:30:44.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\EmailService.cs",
+              "RelativeDocumentMoniker": "Domain\\EmailService.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\EmailService.cs",
+              "RelativeToolTip": "Domain\\EmailService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwDgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:33:09.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "JobSeekerLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "RelativeToolTip": "Domain\\Service\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:27:39.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\AuthUser\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\AuthUser\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\AuthUser\\AuthRepository.cs",
+              "RelativeToolTip": "Domain\\Service\\AuthUser\\AuthRepository.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwEgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:11:10.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IJobseekerSignUpRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\JobSeekerSignUp\\Interfaces\\IJobseekerSignUpRequestService.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\JobSeekerSignUp\\Interfaces\\IJobseekerSignUpRequestService.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\JobSeekerSignUp\\Interfaces\\IJobseekerSignUpRequestService.cs",
+              "RelativeToolTip": "Domain\\Service\\JobSeekerSignUp\\Interfaces\\IJobseekerSignUpRequestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:16:43.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SignUpRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\JobProviderSignUp\\SignUpRequestRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\JobProviderSignUp\\SignUpRequestRepository.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\JobProviderSignUp\\SignUpRequestRepository.cs",
+              "RelativeToolTip": "Domain\\Service\\JobProviderSignUp\\SignUpRequestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:53:35.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ISignUpRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\JobProviderSignUp\\Interface\\ISignUpRequestService.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\JobProviderSignUp\\Interface\\ISignUpRequestService.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\JobProviderSignUp\\Interface\\ISignUpRequestService.cs",
+              "RelativeToolTip": "Domain\\Service\\JobProviderSignUp\\Interface\\ISignUpRequestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:41:49.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20240807110514_addedjobseekerprofileskills3.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Migrations\\20240807110514_addedjobseekerprofileskills3.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20240807110514_addedjobseekerprofileskills3.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Migrations\\20240807110514_addedjobseekerprofileskills3.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20240807110514_addedjobseekerprofileskills3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:05:14.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20240807104824_addedjobseekerprofileskills.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Migrations\\20240807104824_addedjobseekerprofileskills.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20240807104824_addedjobseekerprofileskills.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Migrations\\20240807104824_addedjobseekerprofileskills.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20240807104824_addedjobseekerprofileskills.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:48:24.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240807105123_addedjobseekerprofileskills2.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Migrations\\20240807105123_addedjobseekerprofileskills2.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20240807105123_addedjobseekerprofileskills2.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Migrations\\20240807105123_addedjobseekerprofileskills2.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20240807105123_addedjobseekerprofileskills2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:51:23.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\AuthUser\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\AuthUser\\Interfaces\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\AuthUser\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "Domain\\Service\\AuthUser\\Interfaces\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:42:04.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IAuthUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\AuthUser\\Interfaces\\IAuthUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\AuthUser\\Interfaces\\IAuthUserRepository.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Service\\AuthUser\\Interfaces\\IAuthUserRepository.cs",
+              "RelativeToolTip": "Domain\\Service\\AuthUser\\Interfaces\\IAuthUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:39:33.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:34:24.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\IMailService.cs",
+              "RelativeDocumentMoniker": "Domain\\IMailService.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\IMailService.cs",
+              "RelativeToolTip": "Domain\\IMailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:34:19.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Helpers\\MailSettings.cs",
+              "RelativeDocumentMoniker": "Domain\\Helpers\\MailSettings.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Helpers\\MailSettings.cs",
+              "RelativeToolTip": "Domain\\Helpers\\MailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:16:15.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Helpers\\MailRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Helpers\\MailRequest.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Helpers\\MailRequest.cs",
+              "RelativeToolTip": "Domain\\Helpers\\MailRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:15:59.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Enum\\Role.cs",
+              "RelativeDocumentMoniker": "Domain\\Enum\\Role.cs",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\Domain\\Enum\\Role.cs",
+              "RelativeToolTip": "Domain\\Enum\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:14:11.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CareerCatalyst\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rajre\\OneDrive\\Desktop\\orginal project angular\\original project\\PROJECT_NEW\\CareerCatalyst\\CareerCatalyst\\appsettings.Development.json",
+              "RelativeToolTip": "CareerCatalyst\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T09:01:24.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

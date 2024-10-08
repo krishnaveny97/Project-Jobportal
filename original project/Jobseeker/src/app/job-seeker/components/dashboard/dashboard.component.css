@@ -1,0 +1,15 @@
+.card{
+    color: white;
+    border-radius: 10px;
+    box-shadow: 8px 8px 8px rgba(0.3,0.3,0.3,0.12),
+    8px 8px 8px rgba(0.3,0.3,0.3,0.14);
+}
+.icon{
+    font-size: 3em;  
+}
+.head{
+    font-size: 1.5em;
+}
+.count{
+   font-size: 3em; font-weight: bold;
+}

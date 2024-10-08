@@ -1,0 +1,101 @@
+<div class="container">
+    <mat-tab-group>
+     
+  
+      <!-- Add Profile -->
+      <mat-tab label="Add Profile">
+        <div class="row">
+          <div class="col-md-6" id="box-1">
+            <div class="logp-png">
+              <img src="../../../../assets/image/profile.jpg" alt="profile" />
+            </div>
+          </div>
+          <div class="col-md-6 p-3" id="box-2">
+            <div class="content">
+              <p class="subtitle">HELLO</p>
+              <h1 class="title">
+                <span>Mitchell</span>
+              </h1>
+              <!-- <h1 class="title">
+                          I'm <span>Mitchell<br />a</span> Web Developer
+                        </h1> -->
+              <p class="description">
+                Welcome to my web developer portfolio! I'm Mitchell, a skilled and
+                creative web developer with a passion for creating beautiful,
+                responsive, and user-friendly websites. I've worked on a variety
+                of web projects, ranging from personal blogs to e-commerce
+                platforms.
+              </p>
+              <form
+                class="example-form"
+                [formGroup]="seekerProfile"
+                (ngSubmit)="onsubmit()"
+              >
+                <mat-form-field appearance="outline">
+                  <mat-label>Profile name</mat-label>
+                  <input
+                    matInput
+                    placeholder="Profile name "
+                    type="text"
+                    name="profileName"
+                    formControlName="profileName"
+                  />
+                  <mat-error
+                    *ngIf="
+                      seekerProfile.get('profileName')?.invalid &&
+                      (seekerProfile.get('profileName')?.dirty ||
+                        seekerProfile.get('profileName')?.touched)
+                    "
+                  >
+                    <span
+                      *ngIf="seekerProfile.get('profileName')?.hasError?.('required')"
+                    >
+                      Profile name is required</span
+                    >
+                  </mat-error>
+                </mat-form-field>
+                <mat-form-field appearance="outline">
+                  <mat-label>Profile summary</mat-label>
+                  <textarea
+                    matInput
+                    placeholder=""
+                    name="profileSummary"
+                    formControlName="profileSummary"
+                  ></textarea>
+                  <mat-error
+                    *ngIf="
+                      seekerProfile.get('profileSummary')?.invalid &&
+                      (seekerProfile.get('profileSummary')?.dirty ||
+                        seekerProfile.get('profileSummary')?.touched)
+                    "
+                  >
+                    <span
+                      *ngIf="seekerProfile.get('profileSummary')?.hasError?.('required')"
+                    >
+                      Profile Summary Required
+                    </span>
+                  </mat-error>
+                </mat-form-field>
+                <div class="addprofile">
+                  <button
+                    mat-raised-button
+                    color="primary"
+                    class="Phone-size"
+                    [disabled]="seekerProfile.invalid"
+                  >
+                    Add Profile
+                  </button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </mat-tab>
+    </mat-tab-group>
+  </div>
+  <!-- <button mat-raised-button color="primary" (click)="getindustry()">
+    clickme
+  </button> -->
+  
+  <!-- <button (click)="display()" >display</button> -->
+  

@@ -1,0 +1,29 @@
+C:\Users\rajre\OneDrive\Desktop\.netcore\.NetCore---Batch04\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\rajre\OneDrive\Desktop\.netcore\.NetCore---Batch04\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajre\OneDrive\Desktop\.netcore\.NetCore---Batch04\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\rajre\OneDrive\Desktop\.netcore\.NetCore---Batch04\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\rajre\OneDrive\Desktop\.netcore\.NetCore---Batch04\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\rajre\OneDrive\Desktop\.netcore\.NetCore---Batch04\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\rajre\OneDrive\Desktop\.netcore\.NetCore---Batch04\PROJECT_NEW\CareerCatalyst\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\rajre\OneDrive\Desktop\.netcore\.NetCore---Batch04\PROJECT_NEW\CareerCatalyst\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\rajre\OneDrive\Desktop\.netcore\.NetCore---Batch04\PROJECT_NEW\CareerCatalyst\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\rajre\OneDrive\Desktop\.netcore\.NetCore---Batch04\PROJECT_NEW\CareerCatalyst\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\rajre\OneDrive\Desktop\.netcore\.NetCore---Batch04\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\rajre\OneDrive\Desktop\.netcore\.NetCore---Batch04\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\rajre\OneDrive\Desktop\.netcore\.NetCore---Batch04\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\rajre\OneDrive\Desktop\.netcore\.NetCore---Batch04\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\rajre\OneDrive\Desktop\.netcore\.NetCore---Batch04\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\rajre\OneDrive\Desktop\Angular project registration sample\PROJECT_NEW\CareerCatalyst\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\rajre\OneDrive\Desktop\Angular project registration sample\PROJECT_NEW\CareerCatalyst\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\rajre\OneDrive\Desktop\Angular project registration sample\PROJECT_NEW\CareerCatalyst\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\rajre\OneDrive\Desktop\Angular project registration sample\PROJECT_NEW\CareerCatalyst\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\rajre\OneDrive\Desktop\Angular project registration sample\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\rajre\OneDrive\Desktop\Angular project registration sample\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajre\OneDrive\Desktop\Angular project registration sample\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\rajre\OneDrive\Desktop\Angular project registration sample\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\rajre\OneDrive\Desktop\Angular project registration sample\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\rajre\OneDrive\Desktop\Angular project registration sample\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\rajre\OneDrive\Desktop\Angular project registration sample\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\rajre\OneDrive\Desktop\Angular project registration sample\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\rajre\OneDrive\Desktop\Angular project registration sample\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\rajre\OneDrive\Desktop\Angular project registration sample\PROJECT_NEW\CareerCatalyst\Domain\obj\Debug\net8.0\ref\Domain.dll

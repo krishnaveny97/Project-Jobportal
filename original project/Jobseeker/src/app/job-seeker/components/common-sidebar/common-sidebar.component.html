@@ -1,0 +1,108 @@
+<!-- header -->
+<mat-toolbar class="mat-elevation-z8 mat-primary">
+    <button
+      mat-icon-button
+      *ngIf="sidenav.mode === 'over'"
+      (click)="sidenav.toggle()"
+    >
+      <mat-icon *ngIf="!sidenav.opened"> menu </mat-icon>
+      <mat-icon *ngIf="sidenav.opened"> close </mat-icon>
+    </button>
+  
+    <span class="example-spacer"></span>
+    <div *ngFor="let viewname of profileName">
+      <p style="color: rgb(255, 255, 255)" class="p-3">{{ viewname.userName }}</p>
+    </div>
+  
+    <div class="mr-auto">
+      <img
+        alt=""
+        class="avatarr mat-elevation-z8"
+        src="https://source.unsplash.com/c_GmwfHBDzk/200x200"
+        style="width: 40px; height: 40px"
+      />
+  
+      <button
+        mat-icon-button
+        [matMenuTriggerFor]="menu"
+        aria-label="Example icon-button with a menu"
+      >
+        <mat-icon><i class="bi bi-caret-down-fill"></i></mat-icon>
+      </button>
+      <mat-menu #menu="matMenu">
+        <button mat-menu-item>
+          <mat-icon><i class="bi bi-info-lg"></i></mat-icon>
+          <span>Help</span>
+        </button>
+  
+        <button mat-menu-item>
+          <mat-icon>phone</mat-icon>
+  
+          <span>Contact Us</span>
+        </button>
+        <button mat-menu-item (click)="logout()">
+          <mat-icon>logout</mat-icon>
+          <span>Logout</span>
+        </button>
+      </mat-menu>
+  
+      <!-- <button mat-raised-button color="accent">Sign out</button> -->
+    </div>
+  </mat-toolbar>
+  
+  <mat-sidenav-container>
+    <!-- sidebar -->
+    <mat-sidenav
+      mat-primary
+      #sidenav="matSidenav"
+      class="mat-elevation-z8 mat-accent"
+    >
+      <img
+        alt=""
+        class="avatar mat-elevation-z8"
+        src="https://source.unsplash.com/c_GmwfHBDzk/200x200"
+      />
+  
+      <h4 class="name">John Smith</h4>
+      <p class="designation">Software Engineer</p>
+      <p class="designation">john@gmail.com</p>
+  
+      <mat-divider></mat-divider>
+  
+      <button mat-button class="menu-button text-white" routerLink="./Dashboard">
+        <mat-icon>dashboard</mat-icon>
+        <span>Dashboard</span>
+      </button>
+      <button mat-button class="menu-button text-white" routerLink="./viewjob">
+        <mat-icon><i class="bi bi-briefcase-fill"></i></mat-icon>
+        <span>All Jobs</span>
+      </button>
+      <button mat-button class="menu-button text-white" routerLink="./myapplication">
+        <mat-icon><i class="bi bi-card-checklist"></i></mat-icon>
+        <span>Applications</span>
+      </button>
+      <mat-divider></mat-divider>
+      <button mat-button class="menu-button text-white" routerLink="./My-Profile">
+        <mat-icon><i class="bi bi-person-check-fill"></i></mat-icon>
+        <span>My Profile</span>
+      </button>
+  
+      <button mat-button class="menu-button text-white">
+        <mat-icon>message</mat-icon>
+        <span>Chat</span>
+      </button>
+  
+      <button mat-button class="menu-button text-white">
+        <mat-icon>settings</mat-icon>
+        <span>Settings</span>
+      </button>
+    </mat-sidenav>
+  
+    <!-- page content -->
+    <mat-sidenav-content style="overflow-x: hidden">
+      <div style="min-height: 100vh">
+        <router-outlet></router-outlet>
+      </div>
+    </mat-sidenav-content>
+  </mat-sidenav-container>
+  
